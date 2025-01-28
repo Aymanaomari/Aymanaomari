@@ -9,7 +9,7 @@ With skills in API integration, front-end development, and backend architecture,
 
 Let’s connect and create impactful solutions together! 🚀
 
-## Languages and Tools <a href="#"><img src="https://github.com/user-attachments/assets/5991f501-80d9-4b4c-a778-eea250962c29" alt="icon" width="24" height="24"></a>
+## <a href="#"><img src="https://github.com/user-attachments/assets/5991f501-80d9-4b4c-a778-eea250962c29" alt="icon" width="24" height="24"></a>  Languages and Tools 
 
 
 
