@@ -1,4 +1,4 @@
-# Ayman AOMARI 🦸 
+# Ayman Aomari 🦸 
 
 **`Full Stack Developer(web/Mobile) and UI/UX Designer`**
 
