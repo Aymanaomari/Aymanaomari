@@ -9,6 +9,8 @@ With skills in API integration, front-end development, and backend architecture,
 
 Let’s connect and create impactful solutions together! 🚀
 
+## Languages and tools ![image](https://github.com/user-attachments/assets/5991f501-80d9-4b4c-a778-eea250962c29)
+
 
 <!--
 **Aymanaomari/Aymanaomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
