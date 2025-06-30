@@ -9,7 +9,7 @@ With skills in API integration, front-end development, and backend architecture,
 
 Let’s connect and create impactful solutions together! 🚀
 
-## <img src="https://github.com/user-attachments/assets/5991f501-80d9-4b4c-a778-eea250962c29" alt="icon" width="24" height="24">  Languages and Tools 
+## **Languages and Tools**
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
