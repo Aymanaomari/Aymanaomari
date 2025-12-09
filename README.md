@@ -1,4 +1,3 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a0ceef50-ada7-4aa2-9f1c-3daa051a767b" />
 # Ayman Aomari 🦸 
 
 **`Full Stack Developer(web/Mobile) and UI/UX Designer`**
