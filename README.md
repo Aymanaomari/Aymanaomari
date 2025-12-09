@@ -13,7 +13,7 @@
 
 <div align="left">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=blue">
+<img align="right" src="https://komarev.com/ghpvc/?username=Aymanaomari&style=for-the-badge&color=blue">
 
 **`Full Stack Developer (Web/Mobile) and UI/UX Designer`**
 
