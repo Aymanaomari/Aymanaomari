@@ -26,7 +26,32 @@ With skills in API integration, front-end development, and backend architecture,
 
 Let’s connect and create impactful solutions together! 🚀
 
-## **Languages and Tools**
+<!--Skills-->
+
+<a href="https://github.com/Aymanaomari">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/Aymanaomari">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/AymanAomari">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+ 【﻿Ｓｋｉｌｌｓ】  
+</h3>
+
+<a href="https://github.com/Aymanaomari">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<br>
+<br> 
+
+<div align="center">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,git,linux,html,css,js,nodejs,vue,github,tailwind,flutter,docker,jenkins,ansible,kubernetes,react,nextjs,c,vim,azure,bootstrap,firebase,ai,jest,nginx,npm,pinia,redux,rollupjs,sass,spring,threejs,vim,vite,vuetify" />
