@@ -11,7 +11,13 @@
 <h1 align="center">Ayman Aomari 🦸</h1>
 
 
-**`Full Stack Developer(web/Mobile) and UI/UX Designer`**
+<div align="left">
+
+<img align="right" src="https://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=blue">
+
+**`Full Stack Developer (Web/Mobile) and UI/UX Designer`**
+
+</div>
 
 Hello, I'm Ayman Aomari!
 I'm a full-stack developer based in Casablanca and a Master's student specializing in Networking. I combine my expertise in web development with a strong foundation in network design, administration, and security. From building dynamic, user-focused applications to designing scalable and efficient network systems, I aim to deliver innovative solutions tailored to modern challenges.
