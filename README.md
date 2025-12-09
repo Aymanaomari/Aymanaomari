@@ -53,9 +53,10 @@ Let’s connect and create impactful solutions together! 🚀
 
 <div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,git,linux,html,css,js,nodejs,vue,github,tailwind,flutter,docker,jenkins,ansible,kubernetes,react,nextjs,c,vim,azure,bootstrap,firebase,ai,jest,nginx,npm,pinia,redux,rollupjs,sass,spring,threejs,vim,vite,vuetify" />
-</p>
+| **Programming Languages** | **Frontend Tools** | **Backend Tools** | **Data Related** | **IDEs / Softwares** | **Other Tools** |
+|---------------------------|--------------------|-------------------|------------------|-----------------------|------------------|
+| <p align="center"><img src="https://skillicons.dev/icons?i=java,ts,js,c" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,tailwind,bootstrap,sass,vuetify,threejs" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=eclipse,netbeans,vscode,idea" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,jenkins,ansible,kubernetes,nginx,npm,rollupjs,vite,pinia,redux,firebase,azure,jest,flutter,ai,vim" /></p> |
+
 
 <br />
 <br />
