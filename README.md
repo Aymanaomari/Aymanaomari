@@ -12,7 +12,7 @@ Let’s connect and create impactful solutions together! 🚀
 ## **Languages and Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,git,linux,html,css,js,nodejs,vue,github,tailwind,flutter,docker,jenkins,ansible,kubernetes,react,nextjs,c,vim" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,git,linux,html,css,js,nodejs,vue,github,tailwind,flutter,docker,jenkins,ansible,kubernetes,react,nextjs,c,vim,azure,bootstrap,firebase,ai,jest,nginx,npm,pinia,redux,rollupjs,sass,spring,threejs,vim,vite,vuetify" />
 </p>
 
 <br />
