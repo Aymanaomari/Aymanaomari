@@ -65,25 +65,14 @@ Let’s connect and create impactful solutions together! 🚀
 
 
 ### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymanaomari&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+ <div align="center">
+ <a href="https://github.com/Aymanaomari"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymanaomari&theme=algolia" width="100%" /> </br></br>
 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aymanaomari&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aymanaomari&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aymanaomari&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
 
-<!--
-**Aymanaomari/Aymanaomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
