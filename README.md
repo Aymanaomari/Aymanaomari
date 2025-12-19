@@ -64,15 +64,5 @@ Let’s connect and create impactful solutions together! 🚀
 <br />
 
 
-### 📊 Stats
- <div align="center">
- <a href="https://github.com/Aymanaomari"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymanaomari&theme=algolia" width="100%" /> </br></br>
 
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aymanaomari&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aymanaomari&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aymanaomari&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-</br></br>
- </a>
 
